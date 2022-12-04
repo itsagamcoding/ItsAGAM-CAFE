@@ -15,20 +15,6 @@ h1, h2, p {
   max-width: 500px;
 
 }
-.leftGIF{
-  width: 15%;
-  position: fixed;
-  margin-top:2cm;
-  margin-left: 2cm;
-}
-
-.rightGIF{
-  width: 20%;
-  position: fixed;
-  margin-top: 2cm;
-  margin-left:30cm;
-}
-
 
 h1{
   font-size: 40px;
