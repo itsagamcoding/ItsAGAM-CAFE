@@ -16,11 +16,18 @@ h1, h2, p {
 
 }
   
+.coffee{
+  font-size: 35px;
+  font-family: 'Kenia',cursive;
+  margin-top: -2px;
+}
+
 h1{
   font-size: 40px;
   margin-top: 0;
   margin-bottom: 15px;
   font-family: 'Dancing Script', cursive;
+  margin-top: -2px;
 }
 
 h2{
