@@ -1,0 +1,111 @@
+body {
+    background-image: url(https://cdn.wallpapersafari.com/23/0/98zDiH.jpg);
+}
+  
+h1, h2, p {
+  text-align: center;
+}
+
+.menu {
+  width: 80%;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+
+}
+.leftGIF{
+  width: 15%;
+  position: fixed;
+  margin-top:2cm;
+  margin-left: 2cm;
+}
+
+.rightGIF{
+  width: 20%;
+  position: fixed;
+  margin-top: 2cm;
+  margin-left:30cm;
+}
+
+
+h1{
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2{
+  font-size: 35px;
+  font-family: 'Kenia',cursive;
+  margin-top: -2px;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -30px;
+  height: 1cm;
+  width: 1cm;
+}
+
+hr {
+  height: 2px;
+  background-color: red;
+  border-color: brown;
+  border-width: 0.05cm;
+
+}
+
+.item p{
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+
+}
+
+.flavor,.dessert {
+  text-align: left;
+  width: 75%;
+  margin-left: 35px;
+}
+
+.price{
+  text-align: right;
+}
+
+#copyright{
+  height: 0.375cm;
+  width: 0.375cm;
+  margin-bottom: -1.5px;
+}
+
+/* FOOTER */
+
+footer {
+  font-size: 14px;
+} 
+
+.lowerLink:visited{
+  color: brown;
+}
+
+a {
+  color:#1492f2;
+}
+
+.lowerLink:hover{
+  color: #FF0000;
+}
+
+.lowerLink:active{
+  color: aqua;
+}
+
+
+  
+
+  
